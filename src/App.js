@@ -7,6 +7,9 @@ function App() {
     <div className="App">
       <TestComponent />
       <h1>lets build something else</h1>
+      <hr />
+      <h1>This is an hr, how do I get the image on?</h1>
+      <img src={"./Desktop/GaryB.jpg"} />
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
