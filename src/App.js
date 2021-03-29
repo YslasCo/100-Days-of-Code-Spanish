@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import TestComponent from './TestComponent';
+import Button from '@material-ui/core/Button';
+import 'fontsource-roboto';
 
 function App() {
   return (
@@ -9,7 +11,10 @@ function App() {
       <h1>lets build something else</h1>
       <hr />
       <h1>This is an hr, how do I get the image on?</h1>
-      <img src={"./Desktop/GaryB.jpg"} />
+      <Button variant="outlined" color="secondary">
+  Secondary
+</Button>
+     
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
