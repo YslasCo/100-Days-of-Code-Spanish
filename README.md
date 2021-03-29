@@ -1,6 +1,11 @@
 Day 1 - Create React App
 
-Day 2 - Download Git, psh to github
+Day 2 - Download Git, push to github
+
+Day 3 - Create an HR
+
+Day 4 - Connect to Material UI, Added a button
+
 
 
 
